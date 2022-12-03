@@ -18,7 +18,7 @@ width: 540px;
 height: 403px;
 }
 .image{
-    background-image: url(/images/image-product-desktop.jpg);
+    background-image: url(./images/image-product-desktop.jpg);
     border-top-left-radius:10px;
     border-bottom-left-radius: 10px;
     width: 540px;
@@ -131,7 +131,7 @@ h3{
         margin-top: 30px;
         }
         .image{
-            background-image: url(/images/image-product-mobile.jpg);
+            background-image: url(./images/image-product-mobile.jpg);
             width: 320px;
             height: 200px;
             background-size: 320px;
