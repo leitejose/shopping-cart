@@ -131,7 +131,7 @@ h3{
         margin-top: 30px;
         }
         .image{
-            background-image: url(./images/image-product-mobile.jpg);
+            background-image: url(/images/image-product-mobile.jpg);
             width: 320px;
             height: 200px;
             background-size: 320px;
